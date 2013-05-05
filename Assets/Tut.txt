@@ -1,0 +1,2 @@
+Number in wrong slot,
+but in right row or column
